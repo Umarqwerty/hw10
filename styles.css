@@ -1,0 +1,26 @@
+*{
+margin: 0;
+padding:0 ;
+box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background-color: rgba(212, 28, 28, 0.842);
+height: 100vh;
+  }
+  .circle{
+height: 100vh;
+
+cursor: pointer;
+
+  }
+.circle:hover{
+   background-color: rgb(53, 53, 53); 
+}
+
+  
+  
+  
+  
